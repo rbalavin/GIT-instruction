@@ -2,14 +2,14 @@
 <CODE>brew install git</CODE>
 <h3 align="center">Add directory to GIT</h3>
 <i>Go to directory<br></i>
-<CODE>cd 'directory path'<br></CODE>
-<CODE>git init<br></CODE>
-<p>Сheck status<br></p>
+<p><CODE>cd 'directory path'</CODE><br>
+<CODE>git init</CODE><br>
+Сheck status<br></p>
 <CODE>git status</CODE>
 <h3 align="center">Adding changes</h3>
-<CODE>git add 'name files'<br></CODE>
-<CODE>git add --all<br></CODE>
-<CODE>git add .<br></CODE>
+<p><CODE>git add 'name files'</CODE><br>
+<CODE>git add --all</CODE><br>
+<CODE>git add .</CODE><br></p>
 <p>Сheck status<br></p>
 <CODE>git status<br></CODE>
 <h3 align="center">Save changes</h3>
