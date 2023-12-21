@@ -1,10 +1,10 @@
 <h1 align="center">Install GIT</h1>
 <CODE>brew install git</CODE>
 <h3 align="center">Add directory to GIT</h3>
-<p><i>Go to directory</i><br>
+<p><i>Go to directory: </i>
 <CODE>cd 'directory path'</CODE><br>
 <CODE>git init</CODE><br>
-Сheck status<br>
+<i>Сheck status: </i>
 <CODE>git status</CODE></p>
 <h3 align="center">Adding changes</h3>
 <p><CODE>git add 'name files'</CODE><br>
@@ -20,7 +20,8 @@
 <CODE>ssh-keygen -t ed25519 -C rbalavin@gmail.com</CODE><br>
 <CODE>ls -a .ssh/</CODE><br>
 <i>Copy public key</i><br>
-<CODE>pbcopy < ~/.ssh/id_ed25519.pub</CODE></p>
+<CODE>pbcopy < ~/.ssh/id_ed25519.pub</CODE><br>
+<i>Past public key in setings you profile on <a href="https://github.com">GitHub</a></i></p>
 <h3 align="center">Create repository on <a href="https://github.com">GitHub</a></h3>
 <p><i>Go to directory</i><br>
 <CODE>cd 'directory path'</CODE><br>
