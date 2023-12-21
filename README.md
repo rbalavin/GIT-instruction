@@ -5,7 +5,7 @@
 <CODE>cd 'directory path'</CODE><br>
 <CODE>git init</CODE><br>
 <i>Сheck status: </i>
-<CODE>git status</CODE></p>
+<CODE>git status</CODE> (untracked/tracked, staged & modified)</p>
 <h3 align="center">Adding changes</h3>
 <p><CODE>git add 'name files'</CODE><br>
 <CODE>git add --all</CODE><br>
@@ -13,7 +13,8 @@
 <h3 align="center">Save changes</h3>
 <CODE>git commit -m 'message about changes'<br></CODE>
 <h3 align="center">Cheсk version log</h3>
-<CODE>git log</CODE>
+<p><CODE>git log</CODE> full log<br>
+<CODE>git log --oneline</CODE> abbreviated log</p>
 <h1 align="center"><a href="https://github.com">GitHub</a></h1>
 <h3 align="center">Create SSH key</h3>
 <p><i>Go to home directory</i><br>
