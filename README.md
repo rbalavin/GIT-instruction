@@ -1,5 +1,5 @@
 <h1 align="center">Install GIT</h1>
-```brew install git```
+`brew install git`
 <h1 align="center">Add directory to GIT</h1>
 _Go to directory_
 ```cd 'directory path'```
