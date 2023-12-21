@@ -22,7 +22,7 @@
 <CODE>ls -a .ssh/</CODE><br>
 <i>Copy public key</i><br>
 <CODE>pbcopy < ~/.ssh/id_ed25519.pub</CODE><br>
-<i>Past public key in setings you profile on <a href="https://github.com">GitHub</a></i></p>
+<i>Paste the public key in your <a href="https://github.com">GitHub</a> profile settings</i></p>
 <h3 align="center">Create repository on <a href="https://github.com">GitHub</a></h3>
 <p><i>Go to directory</i><br>
 <CODE>cd 'directory path'</CODE><br>
