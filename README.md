@@ -1,10 +1,10 @@
 <h1 align="center">Install GIT</h1>
 <CODE>brew install git</CODE>
 <h3 align="center">Add directory to GIT</h3>
-<i>_Go to directory_</i>
-<CODE>cd 'directory path'</CODE>
+<i>Go to directory<br></i>
+<CODE>cd 'directory path'<br></CODE>
 <CODE>git init</CODE>
-Сheck status
+<p>Сheck status<br></p>
 <CODE>git status</CODE>
 <h3 align="center">Adding changes</h3>
 <CODE>git add 'name files'</CODE>
