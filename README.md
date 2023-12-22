@@ -6,6 +6,13 @@
 <CODE>git init</CODE><br>
 <i>Сheck status: </i>
 <CODE>git status</CODE> (untracked/tracked, staged & modified)</p>
+
+```mermaid
+graph LR;
+  untracked -- "git add" --> staged;
+  staged    -- "git commit -m" --> tracked/comitted;
+``` 
+
 <h3 align="center">Adding changes</h3>
 <p><CODE>git add 'name files'</CODE><br>
 <CODE>git add --all</CODE><br>
@@ -30,11 +37,3 @@
 <CODE>git push -u origin master</CODE> first<br>
 <CODE>git push</CODE> second</p>
 
-```mermaid
-graph LR;
-  untracked -- "git add" --> staged;
-  staged    -- "???" --> tracked/comitted;
-
-%% стрелка без текста для примера: 
-  A --> B;
-``` 
