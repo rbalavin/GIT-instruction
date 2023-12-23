@@ -36,4 +36,8 @@ graph LR;
 <CODE>git remote add origin git@github.com:rbalavin/'name repository'.git</CODE><br>
 <CODE>git push -u origin master</CODE> first<br>
 <CODE>git push</CODE> second</p>
+<h3 align="center">Chenge commit</h3>
+<p>1) <CODE>--amend</CODE> calculation to work with the last commit (<CODE>HEAD</CODE>).<br>
+2) You can add new files to a commit using <CODE>git commit --amend --no-edit</CODE>. Thanks to the <CODE>--no-edit</CODE> option, the commit message will remain as it was<br>
+3) The command <CODE>git commit --amend -m "Updated commit message"</CODE> allows you to change the commit message.</p>
 
